@@ -1,0 +1,2 @@
+# stats-service
+A learning platform needs to track a user's stats for a particular course by using a stats service. Stats service provides the capability to persist new stats as well as fetch aggregated stats for a course.
